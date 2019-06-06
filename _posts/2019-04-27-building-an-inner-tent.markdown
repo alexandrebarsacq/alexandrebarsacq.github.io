@@ -13,19 +13,43 @@ I designed and sewed a net tent / bug bivy (the border between those two is thin
 {:toc}
 
 ## Finished product presentation 
+I made a shelter to keep ticks out, and ease transition to tarp camping. This shelter is at the limit between a net tent and a bivy bag. It's a clone of the [MLD Bug Bivy 2 ](https://mountainlaureldesigns.com/product/bug-bivy-2/).
 
+GENERAL PHOTO HERE
+
+A top entry is used to enter the shelter.
+
+HERE
+
+HERE
+
+Bathtub is "shaped" with small struts made of drinking straws.
+
+PHOTO
+
+2 attatchment points to be attached to a tarp inner or any other mean.
+
+PHOTO 
+
+
+Dimensions : 
+* Width at head : 
+* Width at feet : 
+* Length :
+* Peak height : 
+* Feet height :
+
+Weight : 
+* Shelter only : ADD
+* with stuff sack : ADD
+* with aliexpress Ti sheperd hook and rope to pitch it : ADD
+
+Fabric : 
+* Bathtub : waterproof silpoly PU4000 
+* Side panels : breathable, water resistant PTX Quantum 35g/sqm 
+* Netting : 155 mesh/qcm (1000 meshes/inch²) : 25g/sqm
+.
 ## Project story
-
-![image]({{ site.baseurl }}/assets/images/RS485Sniffer/RS485Sniffer_synoptic.png)
-
-MYOG shelter
-
-Shelter presentation s
-Inspired of MLD bug bivy.
-Size 
-Weight
-Photos
-Fabrics
 
 Tale of overthinking something.
 
@@ -54,11 +78,11 @@ Honestly, requirements could be summarized as « be the same as a MDL bug bivy 
 ### Material choice
 Material choice was dictated by a mix of my requirement of low weight and availability from european suppliers. I read quite a bit of literature, mostly from BPL and myog subreddit, to help me with my choice.
 I ended up with the following materials : 
-Bathtub :  silpoly PU4000 ( ADD WEIGHT HERE)  : its durability/weight/waterproofness characteristics seemed like a good compromise  sourced from adventurexpert
-Sidewalls and head/feet triangles : PTX quantum(ADD WEIGHT HERE)  : very light, water resistant, breathable, it also seemed like a good choice for my requirements sourced from extremtextil
-Netting : the smallest holes/lightest combo I could find, on extremtextil also.
 
-For complete BOM see : BUILD TODO ADD LINK
+* Bathtub : waterproof silpoly PU4000 55g/sqm : its durability/weight/waterproofness characteristics seemed like a good compromise. Sourced from [adventurexpert](https://www.adventurexpert.com/product/20d-silpoly-pu-4000/). I bought 4 meters, but XXX should be enough
+* Side panels : breathable, water resistant PTX Quantum 35g/sqm : very light, water resistant, breathable, it also seemed like a good choice for my requirements sourced from [extremtextil](https://www.extremtextil.de/en/ripstop-nylon-ptx-quantum-downproof-35g-sqm.html?number=71007.ROT). I bought 4 meters, but XXX is enough 
+* Netting : 155 mesh/qcm (1000 meshes/inch²) : 25g/sqm : the smallest holes/lightest combo I could find, on [extremtextil](https://www.extremtextil.de/en/mosquito-net-polyamid-155-mesh-qcm-25g-sqm-ultralight.html?number=70667.SW) also. I bougth 4 meters, but XXX is enough.
+* Webbing : To make loops to attach the tent, I used 10 mm grosgrain. On [extremtextil](https://www.extremtextil.de/en/grossgrain-ribbon-polyester-10mm.html)
 
 ### Design process
 I saw some posts of people on BPL building 1:1 scale wood frames of what their shelter would be, then use this to create a pattern. I like that idea, but dealing with the logistics of wood construction in my tiny apartment is a big pain.  My normal day job involves a lot of computers, programming, and so on. Naturally, I decided to base my design process on a 3D model of a tent.  This became an adventure on its own since I didn’t know how to use CAD software. 
@@ -81,34 +105,54 @@ Once I had the pattern sorted out, it was time to learn a bit more about sewing.
 ## Making the shelter
 Disclaimer : complete beginner in sewing, so take this for what it is.
 
-### Bill of Material 
-TODO
-
 ### Tools used
+* A sewing machine, obviously. Mine is a Toyota RS2000.
+  * A straight stitch foot : it was not provided with my machine and I bought it separately. I tested a walking foot, a roller foot, the usual zigzag/flat foot. In the end, I felt more at ease with the simple straight stitch foot. I think the small opening really helps with sewing.
+  * Schmetz Microtex 60/8 needles : it's small, it's good for less fabric puckering.
+  * Amann Rasant 120 Polyester/Coton thread : I bought this one because it's thin and because I found 20km of thread on ebay for real cheap. I have enough for a lifetime now.
+* A rotary cutter : really helps for cutting fabric straight
+* A straight edge : I used a straight piece of aluminum I had lying around.
+* Scissors for fabric
+* Paper for patterns with 1cm marks : really helped to draw the patterns.
+* Scissors for paper : don't use the same scissors !
+* Pen/Pencils to draw on paper and fabric.
+
 
 ### Techniques used
-
 #### Assembling panels.
 There are many techniques to assemble two panels together. I identified two seams as relevant for my case : flat felled seam and top stitched French seam. Both of those seams ensure that the fabric edge is tucked inside the seam, ensuring that it will not unravel. They also ensure that stitches go through several layers of fabric, which is good for strength.
+
+
 In theory, the flat felled seam seems like the best of all. 2 rows of stitches passing through 4 layers of fabric each ensure a very strong result. 
-TODO IMAGE real flat felled seam
+
+![flat felled](/assets/pictures/nettent/seams_sm.jpg)
+
+*Real flat felled sea (image from hilleberg tents website)*
+
 Flat felled seam is best made on an industrial sewing machine with 2 needles. I don’t have that kind of machine. You can find a lot of tutorials on making a flat felled seam with a home sewing machine. However, many of these are not « real » flat felled seams : some don’t go through all layers of fabric, etc. You can find some tutorials for a real flat felled seam, but in any case it involves a lot of folding, which is a pain with ultralight fabric.
-Enter the top stitched French seam. I discovered it through the Yama Mountain Gear website which has this superb tutorial on making the stitch : ADD LINK HERE. This seam is probably a bit less resistant than the flat felled seam, but it doesn’t require any folding, any weird asymmetric seam allowance : sew 3 straight lines and voilà. 
+
+Enter the top stitched French seam. I discovered it through the Yama Mountain Gear website which has [this superb tutorial on making the stitch](https://yamamountaingear.com/pages/french-seam). This seam is probably a bit less resistant than the flat felled seam, but it doesn’t require any folding, any weird asymmetric seam allowance : sew 3 straight lines and voilà.
+
+
 When I make my tarp I’ll probably try a flat felled seam, but for this current application, the simplicity of the top stitched French seam won my heart, and I’m pretty sure the strength will be more than enough for a net tent.
 
 #### Thread tension.
-Tension is a pain. You want to go really low with ultralight fabric. I bought quite a lot of extra fabric that I used for testing, making lines and lines again with several settings. On my sewing machine, I don’t know if it’s usual or not, there’s a small spring that tensions the upper thread, independent from the tension setting. This puts a minimum baseline on upper tension, even if I set it to zero. In my quest of lowering the tension, I tried circumventing that spring but it would make the machine malfunction. I also disassembled the external frame of the machine, in the hope of finding « something », and out of curiosity also, it did not yield any results, but I documented the procedure here : TODO ADD LINK.
+Tension is a pain. You want to go really low with ultralight fabric. I bought quite a lot of extra fabric that I used for testing, making lines and lines again with several settings. On my sewing machine, I don’t know if it’s usual or not, there’s a small spring that tensions the upper thread, independent from the tension setting. This puts a minimum baseline on upper tension, even if I set it to zero. In my quest of lowering the tension, I tried circumventing that spring but it would make the machine malfunction. I also disassembled the external frame of the machine, in the hope of finding « something », and out of curiosity also, it did not yield any results, but was fun.
+
+
 For  my machine (Toyota RS 2000), the process of finding the correct tension ended up being : start from lowest possible upper thread tension, and then adjust the bobbin tension to match it. I’m pretty sure a lower overall tension would be better, but I can’t test that assertion with my machine. 
+
+
 Did you see what I wrote just above ? I wrote it before starting the actual sewing. It's not completely true. When I wrote this, I was trying to find the correct tension for 2 pieces of one specific fabric. However in this project there are 3 different fabric. Also, depending on what you are sewing, you might be sewing through 2, 3, 4 or even more layer of fabric. Each of these combination have their own ideal tension. So the real way to find the correct tension ended up being : sew some stitches, check what they look like, adapt tension, repeat. With practice it gets better.
 
 #### Needles and thread.
 With ultralight fabric, go small, very small. The smaller the less puckering.
-I ended up using a ADD NEEDLE SIZE HERE and THREAD here. 
+I ended up using a 60/8 needle and rasant 120 thread. 
+
 This is smaller than recommended size, but as someone said somewhere on BPL (sorry I didn’t keep the link), that thread manufacturers have a tendency to advice bigger needle size than required.
 
-### Building the shelter
-A really helpful tutorial is this one TODO ADD LINK, from Yama Mountain Gear. 
-Actually the instructions given below are, without a doubt, of lower quality than this tutorial, so I would advise to use the instruction below as guidelines, but to refer to the Yama Mountain Gear tutorial for actual techniques.
+### Build log of the shelter
+A really helpful tutorial is the one from Yama Mountain Gear for their [DIY net tent kit](https://yamamountaingear.com/collections/diy-kits/products/net-tent-kit). 
 
 #### Draw the pattern
 I chose to draw the pattern on paper and then use the paper pattern to cut the fabric. This has the advantage that you can keep the paper pattern to recreate the project another time, if you're careful. Also, drawing the pattern on paper with a grid is wayyyy easier than drawing it directly on fabric. With this approach, the first step is to draw and cut the paper pattern.
@@ -274,7 +318,7 @@ After that, I sewed the corners by following the lines I drew before. Once that 
 ![My helpful screenshot](/assets/pictures/nettent/47.jpg)
 
 I turned the fabric upside down again and reinforced a bit the webbing loop connection to the fabric.
-![My helpful screenshot](/assets/pictures/nettent/41.jpg)
+![My helpful screenshot](/assets/pictures/nettent/48.jpg)
 
 I then made a dry test of the bathub. Here's the result : 
 ![My helpful screenshot](/assets/pictures/nettent/49.jpg)
