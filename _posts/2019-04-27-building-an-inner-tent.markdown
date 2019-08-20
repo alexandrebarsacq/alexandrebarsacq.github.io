@@ -13,28 +13,35 @@ I designed and sewed a net tent / bug bivy (the border between those two is thin
 {:toc}
 
 ## Finished product presentation 
-I made a shelter to keep ticks out, and ease transition to tarp camping. This shelter is at the limit between a net tent and a bivy bag. It's a clone of the [MLD Bug Bivy 2 ](https://mountainlaureldesigns.com/product/bug-bivy-2/).
+I made a shelter to keep ticks out, and ease transition to tarp camping. This shelter is at the limit between a net tent and a bivy bag. It's a clone of the [MLD Bug Bivy 2 ](https://mountainlaureldesigns.com/product/bug-bivy-2/). The shelter is intended to be used under a tarp. 
 
 The shelter was entirely designed in [FreeCAD](https://www.freecadweb.org/) before any sewing took place.
 ![](/assets/pictures/nettent/cad/3d_side.png)
 
 The shelter was then sewn and made a reality.
-GENERAL PHOTO HERE
+![](/assets/pictures/nettent/pres/general_angled.jpg)
 
-A top entry is used to enter the shelter.
+(On the photos, the orange thingy is my mattress I put inside the tent).
+The tent is made of a waterproof bathtub (grey fabric), water resistant and windproof sides (blue) and netting.
+![](/assets/pictures/nettent/pres/general_front.jpg)
 
-HERE
+The bathtub goes generously high, and small struts at each corner help it keep its shape. There are also two loops at each corners to pitch the tent tight, even though it's not and obligation to use it.
+![](/assets/pictures/nettent/pres/bathtub.jpg)
 
-HERE
+There are two attachment points at head and feet that can be used to ensure that tent fabric does not rub in your face.
+![](/assets/pictures/nettent/pres/attachment_1.jpg)
 
-Bathtub is "shaped" with small struts made of drinking straws.
+This allows to provide "ample" headroom. I spent some time reading (on my back, on my elbows) and it was confortable enough.
+![](/assets/pictures/nettent/pres/headroom.jpg)
 
-PHOTO
+Windproof (and water resistant) fabric goes all the way up above and around the head, providing additionnal shielding from the elements under a tarp. Feets are also protected all the way up
+![](/assets/pictures/nettent/pres/general_angled_low.jpg)
 
-2 attatchment points to be attached to a tarp inner or any other mean.
+The rest of the shelter is made of netting pannels, which provides good ventilation and a nice view of the outside ! 
+![](/assets/pictures/nettent/pres/head_protec.jpg)
 
-PHOTO 
-
+Entering and leaving the shelter is done by the top. A zipper  goes all the way from head to feet. Even though the photo does not show it, the entrance opens to a generous size and allows to get in and out easily.
+![](/assets/pictures/nettent/pres/zipper_opening.jpg)
 
 Dimensions : 
 * Width at head : 
