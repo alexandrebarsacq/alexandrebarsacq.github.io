@@ -5,7 +5,7 @@ date:   2019-04-27 15:37:08 +0200
 categories: myog 
 ---
 
-I designed and sewed a net tent / bug bivy (the border between those two is thin here). This was my first time designing a piece of outdoor equipment, and also my first time sewing. In this article, I'm starting with a presentation of the finished product, then I go in a quite in-depth description of the creation process. If you're in a hurry, the Finishd Product Presentation should be enough !
+I designed and sewed a net tent / bug bivy (the border between those two is thin here). This was my first time designing a piece of outdoor equipment, and also my first time sewing. In this article, I'm starting with a presentation of the finished product, then I go in a quite in-depth description of the creation process. If you're in a hurry, the Finished Product Presentation should be enough !
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ I designed and sewed a net tent / bug bivy (the border between those two is thin
 ## Finished product presentation 
 I made a shelter to keep ticks out, and ease transition to tarp camping. This shelter is at the limit between a net tent and a bivy bag. It's a clone of the [MLD Bug Bivy 2 ](https://mountainlaureldesigns.com/product/bug-bivy-2/). The shelter is intended to be used under a tarp. 
 
-The shelter was entirely designed in [FreeCAD](https://www.freecadweb.org/) before any sewing took place.
+The shelter was entirely designed in [FreeCAD](https://www.freecadweb.org/) before any sewing took place. You can access all the CAD files on [github](https://github.com/alexandrebarsacq/nettent).
 ![](/assets/pictures/nettent/cad/3d_side.png)
 
 The shelter was then sewn and made a reality.
@@ -43,27 +43,32 @@ The rest of the shelter is made of netting pannels, which provides good ventilat
 Entering and leaving the shelter is done by the top. A zipper  goes all the way from head to feet. Even though the photo does not show it, the entrance opens to a generous size and allows to get in and out easily.
 ![](/assets/pictures/nettent/pres/zipper_opening.jpg)
 
-I measure 1m90 so I built the shelter accordingly : 
+Here's a bad picture of the first pitch in real conditions, under the tarp I sewed afterwards : 
+![](/assets/pictures/nettent/pres/real_life.jpg)
 
-Dimensions : TODO
-* Width at head : 
-* Width at feet : 
-* Length :
-* Peak height : 
-* Feet height :
+I'm 1.9m (6.2 feet) so I built the shelter accordingly :
 
 Weight : 
-* Shelter only : ADD
-* with stuff sack : ADD
-* with aliexpress Ti sheperd hook and rope to pitch it : ADD
+* Shelter+shock cord for attachments : 247g (8.7oz)
+* with stuff sack : 252g (8.8oz)
+* with 4 aliexpress Ti sheperd hook : 276g (9.7oz)
+
+Dimensions : 
+* Width at head : 69cm (27in)
+* Width at feet : 50cm (19in)
+* Length : 210cm (82.6in)
+* Peak height : 74cm (29in)
+* Feet height : 37cm (14.5in)
+* bathtub height : 12cm (4.7in)
+* windproof+bathtub sides height : 30cm (11.8in)
+
 
 Fabric : 
 * Bathtub : waterproof silpoly PU4000 
 * Side panels : breathable, water resistant PTX Quantum 35g/sqm 
 * Netting : 155 mesh/qcm (1000 meshes/inch²) : 25g/sqm
 
-
-##Project story
+## Project story
 
 It’s been some time I’ve wanted to switch from sleeping in a tent to a tarp. However my recent hiking trips showed that, for some reason, ticks love me. Hiking with two other friends, I got between 5 to 10 ticks each day, when they got between 0 and 2… Several times, I’ve woken up to several ticks on the inner net of my tent in the morning. This made the idea of sleeping without bug protection a no-go. Actually, since Lyme disease doesn’t seem fun at all, I can’t imagine sleeping without a fully enclosed shelter of some sort anymore. 
 
@@ -77,7 +82,7 @@ I decided to prototype the shelter with a 3D model. I never used CAD software be
 ## Designing the shelter 
 ### Starting the project 
 
-I started this project by reading as much as I could, finding similar projects, educating myself on this whole new activity. Good information sources were the BackPacking Light (BPL) forum and website. I also found interesting information on the myog subreddit. Finally, random googling brought me to interesting websites. I tried to keep track of the interesting links I found through the project, you can find the list at the end of the article in the reference section TODO ADD LINK.
+I started this project by reading as much as I could, finding similar projects, educating myself on this whole new activity. Good information sources were the BackPacking Light (BPL) forum and website. I also found interesting information on the myog subreddit. Finally, random googling brought me to interesting websites. I tried to keep track of the interesting links I found through the project, I used [BulletNotes](https://bulletnotes.io/) to try to keep things organized. An export of my notes is available on [github](https://github.com/alexandrebarsacq/nettent).
 
 ### Requirements 
 Honestly, requirements could be summarized as « be the same as a MDL bug bivy 2 ». It boils down to :
@@ -86,17 +91,6 @@ Honestly, requirements could be summarized as « be the same as a MDL bug bivy 
 * Water resistant, breathable panels for added coverage
 * Can be hung  below a tarp
 * Low weight
-
-### Material choice
-Material choice was dictated by a mix of my requirement of low weight and availability from european suppliers. I read quite a bit of literature, mostly from BPL and myog subreddit, to help me with my choice.
-I ended up with the following materials : 
-
-* Bathtub : waterproof silpoly PU4000 55g/sqm : its durability/weight/waterproofness characteristics seemed like a good compromise. Sourced from [adventurexpert](https://www.adventurexpert.com/product/20d-silpoly-pu-4000/). I bought 4 meters, but less is required.
-* Side panels : breathable, water resistant PTX Quantum 35g/sqm : very light, water resistant, breathable, it also seemed like a good choice for my requirements sourced from [extremtextil](https://www.extremtextil.de/en/ripstop-nylon-ptx-quantum-downproof-35g-sqm.html?number=71007.ROT). I bought 4 meters, but less is required.
-* Netting : 155 mesh/qcm (1000 meshes/inch²) : 25g/sqm : the smallest holes/lightest combo I could find, on [extremtextil](https://www.extremtextil.de/en/mosquito-net-polyamid-155-mesh-qcm-25g-sqm-ultralight.html?number=70667.SW) also. I bougth 4 meters, but less is required.
-* Webbing : To make loops to attach the tent, I used 10 mm grosgrain. On [extremtextil](https://www.extremtextil.de/en/grossgrain-ribbon-polyester-10mm.html)
-
-I bought too much of everything, but this being my first project, I prefered to have some stuff to practice on.
 
 ### Design process
 I saw some posts of people on BPL building 1:1 scale wood frames of what their shelter would be, then use this to create a pattern. I like that idea, but dealing with the logistics of wood construction in my tiny apartment is a big pain.  My normal day job involves a lot of computers, programming, and so on. Naturally, I decided to base my design process on a 3D model of a tent.  This became an adventure on its own since I didn’t know how to use CAD software. 
@@ -123,7 +117,8 @@ At this point I tweaked the model a bit until I was satisfied.
 Then the next step was to get a usable pattern from the 3D model.
 I used FreeCAD tools (and some external macros) to unfold the surfaces that would correspond to single piece of fabric in real life. I also used FreeCAD tools to flatten the parts that were not flat in the model, which correspond to the netting pannels. These are 3D surfaces that must be flattened to create a 2D sewing pattern.
 
-TODO ADD SCREENSHOTS
+Unfolded, flattened, ready to be exported in .svg : 
+![](/assets/pictures/nettent/cad/3d_to_pattern.png)
 
 Once I had 2D representations of each fabric panels in FreeCAD, I exported them in svg format. 
 Then I used [Inkscape](https://inkscape.org/) to create a pattern out of those shapes. At first I tried to use FreeCAD all the way, but Inkscape is better for working with 2D patterns.
@@ -139,6 +134,19 @@ Once I had the pattern sorted out, it was time to learn a bit more about sewing.
 
 ## Making the shelter
 Disclaimer : complete beginner in sewing, so take this for what it is.
+
+### Material choice
+Material choice was dictated by a mix of my requirement of low weight and availability from european suppliers. I read quite a bit of literature, mostly from BPL and myog subreddit, to help me with my choice.
+I ended up with the following materials : 
+
+* Bathtub : waterproof silpoly PU4000 55g/sqm : its durability/weight/waterproofness characteristics seemed like a good compromise. Sourced from [adventurexpert](https://www.adventurexpert.com/product/20d-silpoly-pu-4000/). I bought 4 meters, but less is required.
+* Side panels : breathable, water resistant PTX Quantum 35g/sqm : very light, water resistant, breathable, it also seemed like a good choice for my requirements sourced from [extremtextil](https://www.extremtextil.de/en/ripstop-nylon-ptx-quantum-downproof-35g-sqm.html?number=71007.ROT). I bought 4 meters, but less is required.
+* Netting : 155 mesh/qcm (1000 meshes/inch²) : 25g/sqm : the smallest holes/lightest combo I could find, on [extremtextil](https://www.extremtextil.de/en/mosquito-net-polyamid-155-mesh-qcm-25g-sqm-ultralight.html?number=70667.SW) also. I bougth 4 meters, but less is required.
+* Webbing : To make loops to attach the tent, I used 10 mm grosgrain. On [extremtextil](https://www.extremtextil.de/en/grossgrain-ribbon-polyester-10mm.html)
+* #3 zipper : cheap and low weight, can be found anywhere.
+
+I bought too much of everything, but this being my first project, I prefered to have some stuff to practice on.
+
 
 ### Tools used
 * A sewing machine, obviously. Mine is a Toyota RS2000.
@@ -192,7 +200,7 @@ A really helpful tutorial is the one from Yama Mountain Gear for their [DIY net 
 #### Draw the pattern
 I chose to draw the pattern on paper and then use the paper pattern to cut the fabric. This has the advantage that you can keep the paper pattern to recreate the project another time, if you're careful. Also, drawing the pattern on paper with a grid is wayyyy easier than drawing it directly on fabric. With this approach, the first step is to draw and cut the paper pattern.
 
-I got my computer files with the patterns I made (available here : TODO) and drew them on paper. The digital files should have most, if not all, of the measurements required to trace them on paper with a ruler and a square. No need to calculate angles. 
+I got my computer files with the patterns I made (available [here](https://github.com/alexandrebarsacq/nettent)) and drew them on paper. The digital files should have most, if not all, of the measurements required to trace them on paper with a ruler and a square. No need to calculate angles. 
 
 In the picture below you can see the paper pattern for the head part :
 ![My helpful screenshot](/assets/pictures/nettent/0_head_pattern.jpg)
@@ -405,11 +413,12 @@ First test inside :
 ![My helpful screenshot](/assets/pictures/nettent/73.jpg)
 
 
-##Conclusion 
+## Conclusion 
 
 Designing and making a piece of my own equipment was very rewarding ! 
 
-For the design part, there are several things that I would change for a v2, but overall the process of using CAD helped me a lot to get thing right on the first physical attempt. Biggest design flaw I see is the feet part, a simple triangle would hold tension better than the shape I did. However the extra not-so-taught space might be a good thing for once you're inside the tent. I suspect this is the reason MLD also made its bug bivy this way.
+For the design part, there are several things that I would change for a v2, but overall the process of using CAD helped me a lot to get thing right on the first physical attempt. However, CAD does not do everything : it doesn't gives you the order in which pannels should be sewn, it does not take into account seam allowances and weird things that happen at corners when sewing. It's a big help nonetheless. 
+To critize the design itself, biggest design flaw I see is the feet part, a simple triangle would hold tension better than the shape I did. However the extra not-so-taught space might be a good thing for once you're inside the tent. I suspect this is the reason MLD also made its bug bivy this way. 
 
 Learning to use CAD was interesting, it's fun to be able to model things and interesting to see the challenges of building and using such software : I think this is particularily visible with FreeCAD, by its open source nature you can "see" and understand more of the underlying problematics of such software, through the software itself and also its community. The FreeCAD forum is a great place to get information.
 
@@ -419,4 +428,10 @@ I felt sewing was also a lesson about working with my errors : when I code somet
 
 tl;dr : I really liked making this tent, will do again. 
 
+## Ressources 
 
+All the patterns and CAD files and notes I produced are available on [github](https://github.com/alexandrebarsacq/nettent). I did not clean them out particularily but they should be usable.
+
+## Comments
+
+If you want to comment on the article above, you can do so on [reddit](https://www.reddit.com/r/myog/comments/ct33q4/i_made_a_bug_bivy_mld_bug_bivy_2_clone/)
